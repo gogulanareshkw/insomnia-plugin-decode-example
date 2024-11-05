@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-decode-example",
+  "version": "0.0.1",
+  "private": false,
+  "insomnia": {
+    "name": "decode-example",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "rijndael-js": "^2.0.0"
+  }
+}
